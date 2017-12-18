@@ -1,0 +1,24 @@
+username,anrede,Alter,nationality,stunden_tag,stunden_woche,beruf,startzeit,endzeit,mouseclicks,clicks_auf_bilder,duration [Min],height [m]
+Greta,Frau,61,dt,0.5,10,Bildung und Soziales,17:14:25,17:33:57,221,200,19.32,1.64
+Musterman,Herr,65,deutsch,0,1,keine Angabe,17:46:10,18:12:58,206,187,26.48,1.8
+JL,Frau,26,deutsch,3,13,Student,16:17:49,16:30:57,191,187,13.08,1.64
+Christoph,Herr,23,deutsch,0,3,Student,16:39:54,16:52:05,178,167,12.11,1.78
+Bobo,Herr,22,deutsch,"0,2",3,Student,17:05:56,17:19:35,189,164,13.39,1.78
+Hans Maier,Herr,53,deutsch,0,0,Vertrieb und Verkauf,17:25:59,17:36:39,170,157,10.4,1.7
+Emma,Frau,55,deutsch,1,10,"Pflege, Therapie und Assistenz",17:44:39,17:59:11,152,146,14.32,1.6
+Kevin,Herr,25,deutsch,0,2,Student,18:05:35,18:18:58,196,183,13.23,1.78
+Anna Banana,Frau,26,deutsch,1,5,Personal,21:03:55,21:15:55,210,194,12,1.6
+Ich,Frau,25,deutsch,0,8,Student,14:08:25,14:15:05,140,139,6.4,1.71
+gisela alberich,Frau,48,deutsch,"2,5",20,Hausfrau/-mann,14:17:42,14:34:42,197,190,17,1.72
+Bert,Herr,46,,3,6,keine Angabe,14:35:31,14:46:07,164,159,10.36,1.72
+Hase,Herr,61,,2,4,keine Angabe,15:00:04,15:13:33,179,167,13.29,1.72
+Gudrun,Frau,57,deutsch,2,11,Administration und Sekretariat,15:20:15,15:30:11,150,148,9.56,1.67
+Julia,Frau,26,,2,6,Personal,15:33:19,15:43:15,170,163,9.56,1.6
+Tobias,Herr,22,deutsch,1,10,Student,15:47:57,16:01:54,228,174,13.57,1.75
+Maus,Frau,61,deutsch,2,4.5,keine Angabe,17:09:20,17:25:11,164,159,15.51,1.65
+Jürgen,Herr,63,deutsch,2,7,Führungskräfte,17:27:16,17:41:10,149,143,13.54,1.81
+Stefanie,Frau,25,deutsch,1.5,9,Student,14:54:36,15:09:53,220,202,15.17,1.73
+Sever,Herr,27,deutsch,2,14,Student,15:13:06,15:25:11,238,229,12.05,1.86
+Leona,Frau,23,,1,11,Student,15:29:10,15:40:55,222,206,11.45,1.6
+Helga Zwa,Frau,28,deutsch,"0,5",5,Student,15:45:19,16:01:17,324,279,15.58,1.77
+Pascal,Herr,22,Deutsch,0,1,Student,16:03:40,16:13:40,190,159,10,1.81
